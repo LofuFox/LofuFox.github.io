@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4Laboras</title>
+    <link>https://LofuFox.github.io/</link>
+    <description>Recent content on 4Laboras</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Dec 2023 17:19:20 +0200</lastBuildDate>
+    <atom:link href="https://LofuFox.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>default</title>
+      <link>https://LofuFox.github.io/posts/default/</link>
+      <pubDate>Tue, 19 Dec 2023 17:19:20 +0200</pubDate>
+      <guid>https://LofuFox.github.io/posts/default/</guid>
+      <description>I am writing some sentences. To test it out on hugo.</description>
+    </item>
+  </channel>
+</rss>
